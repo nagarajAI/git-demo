@@ -1,1 +1,5 @@
 This is mainfile
+total 3
+-rw-r--r-- 1 Nagu 197121 19 Sep 10 22:41 file1.txt
+-rw-r--r-- 1 Nagu 197121 26 Sep 10 22:41 file2.txt
+-rw-r--r-- 1 Nagu 197121 17 Sep 10 22:42 mainfile
