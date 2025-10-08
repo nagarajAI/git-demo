@@ -1,5 +1,6 @@
-This is mainfile
-total 3
--rw-r--r-- 1 Nagu 197121 19 Sep 10 22:41 file1.txt
--rw-r--r-- 1 Nagu 197121 26 Sep 10 22:41 file2.txt
--rw-r--r-- 1 Nagu 197121 17 Sep 10 22:42 mainfile
+total 4
+-rw-r--r-- 1 Nagu 197121 71 Oct  8 16:15 dev.txt
+-rw-r--r-- 1 Nagu 197121 40 Oct  8 16:17 file1.txt
+-rw-r--r-- 1 Nagu 197121 58 Oct  8 16:17 file2.txt
+-rw-r--r-- 1 Nagu 197121  0 Oct  8 16:18 mainfile
+-rw-r--r-- 1 Nagu 197121 59 Sep 10 22:57 remotefile.txt
