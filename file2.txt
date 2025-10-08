@@ -1,1 +1,3 @@
 Hello, How are you? file2
+
+git commit -m "commit message"
